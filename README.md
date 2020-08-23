@@ -1,6 +1,6 @@
 <h1><img alt="JorgeL" src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="32"/> Hey! How are you?</h1>
 
-<img align="right" alt="ouuan's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=iamwarning&show_icons=true"/>
+<img align="right" alt="github" width="50%" src="https://github-readme-stats.vercel.app/api?username=iamwarning&show_icons=true"/>
 
 <h3>Look for me</h3>
 <p>
