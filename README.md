@@ -60,4 +60,5 @@
   <img alt="Top Langs" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=iamwarning&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=10&hide=css,html">
   <img alt="Stats" src ="https://github-readme-stats.vercel.app/api?username=iamwarning&show_icons=true&theme=darcula&hide_border=true&bg_color=00000000">
   <img alt="Current Streak" src ="https://github-readme-streak-stats.herokuapp.com?user=iamwarning&theme=darcula&hide_border=true&background=FFFFFF00">
+  <img alt="Wakatime iamwarning" src="https://github-readme-stats.vercel.app/api/wakatime?username=iamwarning&theme=darcula&bg_color=00000000&&hide_border=true&background=FFFFFF00">
 </p>
